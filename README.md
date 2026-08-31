@@ -1,4 +1,21 @@
-# 公众号文章实验代码：秘书问题 / 37% 法则
+<div align="center">
+
+# Secretary Problem Experiments
+
+### 秘书问题与 37% 法则实验代码
+
+**Simulation Toolkit for the Secretary Problem**
+
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-simulation-013243?logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-analysis-150458?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-visualization-11557C)
+
+用可重复运行的模拟研究最优停止、稳定性、宽松成功标准、双向选择与判断噪声。
+
+[实验脚本](#文件说明) · [安装依赖](#安装依赖) · [运行示例](#运行示例) · [注意事项](#注意)
+
+</div>
 
 这份代码整理了文章中用到的主要实验。
 
